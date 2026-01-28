@@ -1,0 +1,22 @@
+{
+  "name": "euler-lending",
+  "version": "0.1.0",
+  "description": "Progressive disclosure skills for Euler Lending protocol - Ethereum Vault Connector (EVC), Euler Vault Kit (EVK), modular oracle system, and periphery infrastructure for composable lending.",
+  "author": {
+    "name": "Euler Labs"
+  },
+  "keywords": [
+    "solidity",
+    "euler",
+    "evc",
+    "evk",
+    "defi",
+    "lending",
+    "borrowing",
+    "erc4626",
+    "vault",
+    "oracle",
+    "smart-contracts"
+  ],
+  "license": "GPL-2.0"
+}
